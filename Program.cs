@@ -1,7 +1,4 @@
 ﻿using Raylib_CsLo;
-using MegaCrit.STS2.Core.Utilities.SDF;
-
-namespace megasdf;
 
 class Program
 {
